@@ -19,7 +19,7 @@ cd uThrive
 
 Then navigate into each folder and follow the instructions in their respective README files:
 
-- **Backend** → see [`backend/README.md`](./backend/README.md)
-- **Frontend** → see [`frontend/README.md`](./frontend/uthrive-ui/README.md)
+- **Backend** → see [`backend/README.md`]("https://github.com/au-lex/productList-uthrive/blob/main/Backend/README.md")
+- **Frontend** → see [`frontend/README.md`]("https://github.com/au-lex/productList-uthrive/blob/main/Frontend/uThrive-ui/README.md")
 
 > Make sure to start the backend before the frontend.
