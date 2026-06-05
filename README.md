@@ -13,7 +13,7 @@ productlist/
 After cloning the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/au-lex/productList-uthrive
 cd uThrive
 ```
 
