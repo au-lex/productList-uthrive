@@ -1,4 +1,4 @@
-# Storefront Backend API
+# The Backend API
 
 Express.js + TypeScript REST API for the uiTHRIVE frontend. Uses an **in-memory data store** (no database required) — data resets on server restart.
 
