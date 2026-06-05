@@ -1,0 +1,23 @@
+
+
+
+
+@import "tailwindcss";
+
+@theme {
+  --color-pri: #C6151B;   
+  --color-sec: rgb(102, 102, 102);  
+  --color-acc: #00A266; 
+  --color-bg: #fff; 
+  --color-text: #111827;      
+
+
+
+
+  --font-header: "Raleway", sans-serif;
+  --font-body:  "Lato", sans-serif;
+
+
+
+
+}
